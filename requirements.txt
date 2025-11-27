@@ -1,0 +1,8 @@
+re
+nltk
+joblib
+scikit-learn
+streamlit
+tfidfvectorizer
+LabelEncoder
+numpy
