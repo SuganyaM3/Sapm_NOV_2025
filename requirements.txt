@@ -2,6 +2,5 @@ nltk
 joblib
 scikit-learn>=1.0.0
 streamlit
-tfidfvectorizer
-LabelEncoder
+pandas
 numpy
